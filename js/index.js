@@ -51,6 +51,6 @@ function checkAlphabet(hacker1, hacker2){
     return ("Yo,navigator goes first definitely");
   }
   else
-    return "What?! You both have the same name?";
+    return ("What?! You both have the same name?");
 }
 console.log(checkAlphabet(hacker1, hacker2));
